@@ -15,4 +15,4 @@ switch (true) {
    default:console.log(rule);
    }
    
-}
+
